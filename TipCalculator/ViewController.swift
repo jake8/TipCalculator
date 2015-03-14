@@ -20,9 +20,6 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        tipLabel.integerValue = tipSlider.integerValue
-        tipTotalLabel.stringValue = ""
-        checkTotalLabel.stringValue = ""
         
     }
 

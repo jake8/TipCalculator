@@ -13,7 +13,6 @@ class ViewController: NSViewController {
     @IBOutlet weak var totalTextField: NSTextField!
     @IBOutlet weak var tipSlider: NSSlider!
     @IBOutlet weak var tipLabel: NSTextField!
-    @IBOutlet weak var calculateButton: NSButton!
     @IBOutlet weak var tipTotalLabel: NSTextField!
     @IBOutlet weak var checkTotalLabel: NSTextField!
     
